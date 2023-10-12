@@ -1,1 +1,1 @@
-# about-me-markdown
+![Female with long hair smiling with a scarf](self-portrait.jpg)
